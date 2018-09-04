@@ -11,4 +11,4 @@
 # To run tests:
 
 1. Navigate to top level directory for lab that contains notebook
-1. run `pytest`
+1. run `python -m pytest` in your terminal
